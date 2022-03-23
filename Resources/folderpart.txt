@@ -1,0 +1,9 @@
+				<div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeIn">
+					<div class="fh5co-staff">
+						<a href="$PATHNAME/">
+						<img src="images/folder.png" alt="" >
+						<h3>$FOLDERNAME</h3>
+						<p>Folder/Directory</p>
+						</a>
+					</div>
+				</div>

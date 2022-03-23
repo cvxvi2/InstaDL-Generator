@@ -1,0 +1,9 @@
+				<div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeIn">
+					<div class="fh5co-staff">
+						<a href="$FILEPATH">
+						<img src="images/File.png" alt="" >
+						<h3>$FILENAME</h3>
+						<p>$FILETYPE</p>
+						</a>
+					</div>
+				</div>
